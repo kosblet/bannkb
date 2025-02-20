@@ -26,6 +26,7 @@ def sort_by_date(
         operations (List[Dict]): Список словарей операций.
         descending (bool): Порядок сортировки. По умолчанию True (по убыванию).
     Returns:
+
         List[Dict]: Отсортированный список словарей операций.
     """
 
